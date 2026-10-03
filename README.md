@@ -11,6 +11,8 @@ something and shows the answer.
 > It talks to Muse the same way the SDK's Linux client does, and it could stop
 > working if that service changes. Proceed at your own risk.
 
+Demo https://x.com/wobsoriano/status/2106252508587073877
+
 ## What you need
 
 - **A Tufty 2350 badge** running Badgeware MicroPython 1.29 or later. It was
