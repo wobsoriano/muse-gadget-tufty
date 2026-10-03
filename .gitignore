@@ -1,0 +1,13 @@
+.sdk_token
+.ask_prompt.txt
+.push_cache.json
+backup/
+vendor/
+dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+# The default avatar is Meta's character and is not covered by the Apache
+# licence. Generate it locally with tools/avatar_sprites.py.
+app/muse/musebadge/avatar/
